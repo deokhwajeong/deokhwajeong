@@ -13,6 +13,17 @@ Technical program manager and former software engineer. For ten years I worked o
 | [StoryTailor](https://github.com/deokhwajeong/StoryTailor.ai) | Started by cataloging one classroom's 148 books by hand; stories are written for the reading levels the shelf is missing and verified before a student sees them. | [Live demo](https://deokhwajeong.github.io/demos/storytailor/) |
 | [Nutri-Node](https://github.com/deokhwajeong/BioAI-Nutrition) | Wearable and lab signals that arrive at different times, turned into a daily plan where medical limits always win. Consent and differential privacy inside the pipeline. | [Live demo](https://deokhwajeong.github.io/demos/nutri-node/) |
 
+#### Program toolkits from my LG work
+
+How I ran certification, privacy requests, issue triage, and multi-market launches, rebuilt without proprietary details as documents plus working tools.
+
+| Project | What it shows | |
+|---|---|---|
+| [Partner Certification Gate](https://github.com/deokhwajeong/streaming-partner-certification) | Playbook and engine for streaming partner certification: per-model go / no-go decisions and blockers ranked by how many models they hold back. | [Live demo](https://deokhwajeong.github.io/demos/partner-certification/) |
+| [Privacy Request Portal](https://github.com/deokhwajeong/privacy-request-portal) | Access and deletion requests with risk-based verification, GDPR and CCPA deadlines, deletion fan-out with per-system proof, and a hash-chained audit log. | [Live demo](https://deokhwajeong.github.io/demos/privacy-request-portal/) |
+| [Release Issue Monitor](https://github.com/deokhwajeong/release-issue-monitor) | Telemetry, store reviews, and support tickets ranked by affected devices instead of ticket volume, with release regression checks. | [Live demo](https://deokhwajeong.github.io/demos/release-issue-monitor/) |
+| [Storefront Readiness Checker](https://github.com/deokhwajeong/storefront-readiness-checker) | Per-market launch readiness for a multi-locale storefront: localization, legal links, content rules, and automated WCAG 2.0 checks. | [Live demo](https://deokhwajeong.github.io/demos/storefront-readiness/) |
+
 #### Side projects
 
 [Grocery Inventory Tracker](https://github.com/deokhwajeong/grocery-inventory-tracker) (receipt OCR, measured on a synthetic receipt set) · [Digital Scribe](https://github.com/deokhwajeong/digital-scribe) (typing and transcription trainer for English, Korean, and Japanese)

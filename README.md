@@ -32,4 +32,6 @@ How I ran certification, privacy requests, issue triage, and multi-market launch
 
 Launch programs with many partners and many hardware models · certification and quality gates that see the field · privacy law turned into engineering requirements
 
+Independent research since 2022 on AI governance scoring for compliance decisions (U.S. patent pending).
+
 PMP · PSM I · Six Sigma Green Belt
